@@ -9,3 +9,4 @@ npx create-next-app app --example "https://github.com/keigo-yoshida-vov/next-app
 - Prettier
 - Tailwind CSS
 - VScode Extentions
+- Storybook
